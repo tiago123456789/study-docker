@@ -1,1 +1,2 @@
-/home/tiago/Documentos/PROJETOS/STUDY-DOCKER/project-laravel/vendor
+./project-laravel/vendor
+./project-laravel/dbdata
